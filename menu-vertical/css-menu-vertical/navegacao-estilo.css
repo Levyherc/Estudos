@@ -1,0 +1,37 @@
+
+/*aplicando a formatação apenas para ul dentro da div menu*/
+#menu ul {
+    list-style-type: none;
+    border: solid 1px red;
+    padding: 0;
+    width: 200px;
+}
+/*selecionar o link <a> que está dentro de uma <li> que está dentro do menu */
+#menu li a {
+    display: block; /*converter de inlaine para block*/
+    padding: 0.5em 1.5rem;
+    color: black;
+    text-decoration: none;
+    background: #f7b600 url("../img/seta.png") no-repeat 0.5em center; 
+    /*usamos o no repeat para a seta não se repetir*/
+}
+/*criando efeito ao passar o mouse por cima*/
+#menu li a:hover {
+    padding-left: 2.5em;
+    color: white;
+    background: #f7b600 url("../img/seta.png") no-repeat 1.5em center; 
+}        
+
+#menu li a:active {
+    /*será aplicar a cor ao clicar na opção*/
+    background-color: #855000;
+}
+
+
+/*Criando a mercação de página atual-menu*/
+#menu li.selecionado a {
+    padding-left: 2.5em;
+    color: white;
+    background: rosybrown url("../img/seta.png") no-repeat 1.5em center;     
+}
+

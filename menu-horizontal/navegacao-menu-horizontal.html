@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navegação Vertical</title>
+    <style>
+        /*aplicando a formatação apenas para ul dentro da div menu*/
+        #menu ul {
+            list-style-type: none;
+            border: solid 1px red;
+            padding: 0.5em;
+            width: 720px; /*alteração de 200 para 720px*/
+            background-color: #24252a;
+        }
+        /*ajustando menu ao usar o float left*/
+        /*limpar o fluxo flutuante*/
+        #menu ul::after {
+            content: " ";
+            clear: both;
+            display: table;
+        }
+
+        /*selecionar o link <a> que está dentro de uma <li> que está dentro do menu */
+        #menu li a {
+            display: block; /*converter de inlaine para block*/
+            padding: 0.5em 1.5rem;
+            color: white;
+            text-decoration: none;
+            float: left;  /*flutuar os elementos*/
+            margin: 0 0.5em;
+        }
+        /*criando efeito ao passar o mouse por cima*/
+        #menu li a:hover {
+            background-color: #0582ac;
+            border-radius: 1.2em;
+        }        
+
+        #menu li a:active {
+            /*será aplicar a cor ao clicar na opção*/
+            background-color: #7a7a7a;
+        }
+
+        #menu li.ativa a {
+            padding-left: 2.5em;
+            color: white;
+            background: purple url(./img/seta.png) no-repeat 1.5em center;
+            border-radius: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Menu Navegação</h1>
+    <!--Usamos uma UL dentro adicionamos a LI com A-->
+    <div id="menu">
+        <ul>
+            <li class="ativa"><a href="./navegacao-menu-horizontal.html">Home</a></li>
+            <li><a href="#">Produtos</a></li>
+            <li><a href="#">Carrinho</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>       
+    </div>
+
+    <div>
+        <h2>Conteúdo</h2>
+        <p>
+            What is Lorem Ipsum?
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+            when an unknown printer took a galley of type and scrambled it to make a type 
+            specimen book. It has survived not only five centuries, but also the leap into 
+            electronic typesetting, remaining essentially unchanged. It was popularised in 
+            the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+            and more recently with desktop publishing software like Aldus PageMaker 
+            including versions of Lorem Ipsum.
+        </p>
+    </div>
+
+
+</body>
+</html>

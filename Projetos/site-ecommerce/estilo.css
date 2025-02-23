@@ -1,0 +1,300 @@
+/* parametros iniciais*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+/*Configurando Button*/
+button {
+    background-color: darkgreen;
+    border: none;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 15px;
+}
+
+/*Colocar efeito Button*/
+button:hover {
+    cursor: pointer;
+    background-color: blue;
+}
+
+/*Configurar input */
+input [type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+
+/* para remover as margens do banner e unificar o menu na mesma faixa*/
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.levy {
+    text-align: center;
+    color: blue;
+    padding: 0;
+   
+}
+
+.conteudo{
+    margin: 0 auto;    
+}
+
+.banner {
+    height: 140px;
+    background-color: black;
+    text-align: center;
+}
+
+.menu {
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    text-align: center;
+}
+
+.ul-menu {
+    list-style-type: nome;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.lista-menu {
+    float: left;
+    border-right: 1px solid beige;
+
+}
+
+.lista-menu a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.lista-menu-terceiro {
+    border-right: none;
+}
+
+.lista-menu a {
+    display: block;
+    color: aqua;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.texto-promocao {
+    background-color: darkgray;
+    padding: 16px;
+    text-align: center;
+}
+
+/*Chamar a animação criada abaixo*/
+.texto-promocao h1 {
+    color: azure;
+    background-color: none;
+    animation: animacaoTexto 1.5s linear infinite;
+}
+
+.texto-promocao2 {
+    margin-top: 10px;
+}
+
+.conteudo-produto {
+    margin-top: 10px;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.produto {
+    width: 35%;
+    padding: 20px;
+
+}
+
+/*efeito destacar ao passar o mouse por cima do produto*/
+.produto:hover {
+    box-shadow: 10px 0px 10px 5px lightgrey;
+    border-radius: 20px;
+}
+
+.produto-name {
+    text-align: center;
+    padding: 5px;
+}
+
+.produto-imagem {
+    width: 100%;
+    text-align: center;
+}
+
+.produto-imagem img {
+    width: 40%;
+    
+}
+
+.produto-descricao {
+    padding: 10px;
+    text-align: justify;
+}
+
+.produto-descricao p {
+    font-size: 16px;
+    margin: 0px;
+    color: black;
+}
+
+.produto-preco {
+    text-align: center;
+    background: dodgerblue;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.produto-preco p {
+    color: azure;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.produto-compra {
+    text-align: center;
+    padding: 20px;
+}
+
+/*Organizando o Radapé*/
+.rodape {
+    height: 120px;
+    background-color: black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape .coluna, .coluna2, .coluna3 {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.rodape-links {
+    display: list-item;
+}
+
+.rodape h4, a, p {
+    color: azure;
+
+}
+
+.rodape a {
+    text-decoration: none;
+}
+
+.rodape a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/*Produtos Detalhados paginas*/
+.produto-detalhes {
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 20px;
+}
+
+.produto-detalhes .box1 {
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.produto-detalhes .box1 .imagem {
+    width: 280px;
+
+}
+
+.img-produto {
+    width: 100%;
+}
+
+.img-produto2 {
+    width: 100%;
+}
+
+.img-produto3 {
+    width: 100%;
+}
+
+.img-produto4 {
+    width: 100%;
+}
+
+.img-produto5 {
+    width: 100%;
+}
+
+.img-produto6 {
+    width: 100%;
+}
+
+.produto-detalhes .box2 {
+    width: 70%;
+    height: 300px;
+
+}
+
+.texto-descricao-produto {
+    color: black;
+}
+
+.produto-detalhes .box2 .pagamento {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.btncomprar  {
+padding-left: 20px;
+}
+
+.produto-descricao-grande {
+    border: 2px dashed rgb(56, 151, 253);
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+
+/*Crinar uma animação*/
+@keyframes animacaoTexto {
+    0% {
+        opacity: 0;
+
+    }
+
+    50% {
+        opacity: 0.7;
+    }
+
+    100% {
+        opacity: 0;
+    
+    }
+}

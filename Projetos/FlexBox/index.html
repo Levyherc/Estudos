@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediCenter</title>
+    <!-- Vincular o CSS -->
+    <link rel="stylesheet" href="Css/css-1.css">
+    <script type="text/javascript">
+        window.onload = function() {
+            document.querySelector(".menumobile").addEventListener("click", function(){
+                if(document.querySelector(".menu nav ul").style.display == 'flex') {
+                    document.querySelector(".menu nav ul").style.display = 'none';
+                }else{
+                    document.querySelector(".menu nav ul").style.display = 'flex';
+                }
+            });
+        };
+
+    </script>
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header>
+        <div class="container">
+            <!-- Será adicionada 2 áreas uma para logo e outra para menu -->
+            <div class="logo">
+                <a href="#"> <img src="Imagens/Logo.png" alt="Logo MediCenter"></a>
+            </div>
+            <div class="menu">
+                <!-- Definir qualquer "menu de navegação" usa-se a "tag" "nav" -->
+                <nav>
+                    <!-- Cria-se uma lista -->
+                    <div class="menumobile">
+                        <div class="mm_line"></div>
+                        <div class="mm_line"></div>
+                        <div class="mm_line"></div>
+                    </div>
+                    <ul>
+                        <li class="active"><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Doctors</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <!-- Criar seções do site -->
+    <section id="banner"> <!-- 1ª section banner -->
+        <div class="container column">
+            <div class="banner_headline">
+                <h1>Top notch experience</h1>
+                <h2>Medicenter is a responsive template perfect for all screen sizes</h2>
+            </div>
+            <div class="banner_options">
+                <div class="banner1">
+                    <div class="banner-title">Emergency Case</div>
+                    <div class="banner_desc">Qualquer texto</div>
+                    <a id="button" href="#">Read More</a>
+                </div>
+                <div class="banner2">
+                    <div class="banner-title">Doctors Timetable</div>
+                    <div class="banner_desc">Qualquer texto</div>
+                    <a id="button" href="#">Read More</a>
+                </div>
+                <div class="banner3">
+                    <div class="banner-title">Opening Hours</div>
+                    <div class="dates">
+                        <div class="date">Monday-Fridey</div>                  
+                        <div class="date1">08:00-17:00</div>
+                    </div>
+                    <div class="dates">
+                        <div class="date">Saturday</div>                  
+                        <div class="date1">09:30-17:30</div>
+                    </div>
+                    <div class="dates">
+                        <div class="date">Sunday</div>                  
+                        <div class="date1">09:30-15:00</div>
+                    </div>
+                    <a id="button" href="#">Read More</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="geral">
+        <div class="container">
+            <section>
+                <div class="widge">
+                    <div class="widge_title">
+                        <div class="widge_title_text">Latest News</div>
+                        <div class="widge_title_bar"></div>
+                    </div>
+                    <div class="widge_boby flex">
+                        <article>
+                            <a href="">
+                                <div class="news_date">
+                                    <div class="news_post"> 06 JUN 24</div>
+                                    <div class="news_coments">2</div>
+                                </div>
+                                <div class="news_thumbnail">
+                                    <img src="Imagens/baixados.jpg" alt="">
+                                </div>
+                                <div class="news_title">
+                                    Any Title Any Title Any Title
+                                </div>
+                                <div class="news_resume">
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                </div>
+                            </a>
+                        </article>
+                        <article>
+                            <a href="">
+                                <div class="news_date">
+                                    <div class="news_post"> 06 JUN 24</div>
+                                    <div class="news_coments">2</div>
+                                </div>
+                                <div class="news_thumbnail">
+                                    <img src="Imagens/baixados.jpg" alt="">
+                                </div>
+                                <div class="news_title">
+                                    Any Title Any Title Any Title
+                                </div>
+                                <div class="news_resume">
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                </div>
+                            </a>
+                        </article>   
+                        <article>
+                            <a href="">
+                                <div class="news_date">
+                                    <div class="news_post"> 06 JUN 24</div>
+                                    <div class="news_coments">2</div>
+                                </div>
+                                <div class="news_thumbnail">
+                                    <img src="Imagens/baixados.jpg" alt="">
+                                </div>
+                                <div class="news_title">
+                                    Any Title Any Title Any Title
+                                </div>
+                                <div class="news_resume">
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                </div>
+                            </a>
+                        </article>
+                        <article>
+                            <a href="">
+                                <div class="news_date">
+                                    <div class="news_post"> 06 JUN 24</div>
+                                    <div class="news_coments">2</div>
+                                </div>
+                                <div class="news_thumbnail">
+                                    <img src="Imagens/baixados.jpg" alt="">
+                                </div>
+                                <div class="news_title">
+                                    Any Title Any Title Any Title
+                                </div>
+                                <div class="news_resume">
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                    Lorem ipsum dolor sit amet. Ad obcaecati omnis qui magnam omnis et animi voluptas sit nulla quibusdam 
+                                    sed illum voluptatem sit suscipit consequatur eos quia autem! Est dicta pariatur vel maxime rerum ea modi
+                                    amet!
+                                </div>
+                            </a>
+                        </article>                                                                     
+                    </div>
+                </div>
+                
+            </section>
+            <aside>
+                <div class="widge">
+                    <div class="widge_title">
+                        <div class="widge_title_text">Departaments</div>
+                        <div class="widge_title_bar"></div>
+                    </div>
+                    <div class="widge_boby">
+                        <div class="informacao">
+                            Any Title Any Title Any Title Any Title Any Title Any Title Any Title Any Title Any Title 
+                            Any Title Any Title Any Title Any.
+                        </div>
+                    </div>
+                </div>
+                <div class="widge">
+                    <div class="widge_title">
+                        <div class="widge_title_text">Make an Appointment</div>
+                        <div class="widge_title_bar"></div>
+                    </div>
+                    <div class="widge_boby">
+                        <div class="informacao">
+                            Any Title Any Title Any Title Any Title Any Title Any Title Any Title Any Title Any Title 
+                            Any Title Any Title Any Title Any.
+                        </div>
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </section>
+    <footer> <!--rodapé do site-->
+        <div class="container FlexColum">
+        <div class="footer_menu">
+            <div class="fm1">
+                <a href="">
+                    <h1>Health Insurance</h1>
+                    <p>Here in Medicenter we have individual</p>
+                </a>
+            </div>
+            <div class="fm2">
+                <a href="">
+                    <h1>Medical Records</h1>
+                    <p>Here in Medicenter we have individual</p>
+                </a>
+            </div>
+            <div class="fm3">
+                <h1>Health Insurance</h1>
+                <p>Here in Medicenter we have individual</p>
+            </div>            
+        </div>
+        <div class="footer_area">
+            <div class="footer_area_item">
+                <div class="widge">
+                    <div class="widge_title">
+                        <div class="widge_title_text">MediCenter Clinic</div>
+                        <div class="widge_title_bar"></div>
+                    </div>
+                    <div class="widge_boby">
+                        <div class="informacao">
+                            Any Title Any Title Any Title Any Title Any Title Any Title Any Title Any Title Any Title 
+                            Any Title Any Title Any Title Any.
+                        </div>
+                        <div class="contato">
+                            <ul>
+                                <li>Address</li>
+                                <li>road</li>
+                                <li>neighborhood</li>
+                                <li>PO Box/City</li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="footer_area_item">
+                <div class="widge">
+                    <div class="widge_title">
+                        <div class="widge_title_text">Latest Post</div>
+                        <div class="widge_title_bar"></div>
+                    </div>
+                    <div class="widge_boby">
+                        <div class="informacao">
+                            Any Title Any Title Any Title Any Title Any Title Any Title Any Title Any Title Any Title 
+                            Any Title Any Title Any Title Any.
+                        </div>
+                    </div>
+                </div>                
+            </div>   
+            <div class="footer_area_item">
+                <div class="widge">
+                    <div class="widge_title">
+                        <div class="widge_title_text">Latest Tweets</div>
+                        <div class="widge_title_bar"></div>
+                    </div>
+                    <div class="widge_boby">
+                        <div class="informacao">
+                            Any Title Any Title Any Title Any Title Any Title Any Title Any Title Any Title Any Title 
+                            Any Title Any Title Any Title Any.
+                        </div>
+                    </div>
+                </div>
+            </div>                     
+        </div>
+        <div class="footer_copy">
+            Coyright - Todos os Direitos Reservados
+        </div>
+        </div>
+
+    </footer>
+</body>
+</html>

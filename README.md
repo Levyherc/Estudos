@@ -14,10 +14,9 @@
       <li><strong>Link:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/Projeto-Awax/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
     </ul>
   </li>
+  <img src="https://github.com/user-attachments/assets/4ffc4bf6-8903-4163-a518-8bdb50abfb20" alt="Projeto Awax" width="600">
 </ul>
-
-
-
+</br>
 6-Projeto-Starbucks-com-Flexbox-e-Grid-R
 
 Este projeto é uma página de exemplo da Starbucks, criada para demonstrar o uso de Flexbox e Grid para layout responsivo. O objetivo foi praticar as técnicas de layout modernas do CSS.

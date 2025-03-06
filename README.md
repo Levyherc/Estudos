@@ -1,7 +1,7 @@
 <h2><strong>Estudos</strong></h2>
 
 <p>Repositório dedicado aos projetos, experimentos e aprendizados adquiridos durante minha jornada de estudos<p>
-<p>Cada projeto tem seu próprio diretório com os arquivos relacionados. Abaixo, você encontrará uma breve descrição de cada projeto e links para visualizar as demos ao vivo.</p>
+<p>Cada projeto tem seu próprio diretório com os arquivos relacionados. Abaixo, você encontrará uma breve descrição de cada projeto e links para acesso.</p>
 
 <h2><strong>Projetos</strong></h2>
 

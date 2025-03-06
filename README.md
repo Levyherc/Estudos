@@ -1,22 +1,56 @@
 <h2><strong>Estudos</strong></h2>
 
 <p>Repositório dedicado aos projetos, experimentos e aprendizados adquiridos durante minha jornada de estudos<p>
+<p>Cada projeto tem seu próprio diretório com os arquivos relacionados. Abaixo, você encontrará uma breve descrição de cada projeto e links para visualizar as demos ao vivo.</p>
 
-<h3>Projetos</h3>
-<p>
-  Este repositório contém projetos de portfólio desenvolvidos por mim. Cada projeto tem seu próprio diretório com os arquivos relacionados. Abaixo, você encontrará uma breve descrição de cada projeto e links para visualizar as demos ao vivo.
-</p>
+<h2><strong>Projetos</strong></h2>
+
 <ul>
   <li>
-    <p><strong>Projeto-Awax:</strong> Este projeto é uma landing page desenvolvida para a empresa fictícia Awax. Utiliza HTML e CSS para criar uma interface moderna e responsiva.</p>
+    <p><strong>🎵 Bateria Virtual:</strong> Uma aplicação web que simula uma bateria, permitindo a reprodução de sons por meio de interações com o teclado e o mouse.</p>
     <ul>
-      <li><stronh>Tecnologias utilizadas:</stronh> HTML e CSS</li>
-      <li><strong>Link:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/Projeto-Awax/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML, CSS e JavaScript</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>🎹 Toque com o teclado:</strong> Pressione as teclas correspondentes para reproduzir os sons da bateria.</li>
+          <li><strong>🖱️ Clique nos botões:</strong> Utilize o mouse para interagir com os sons.</li>
+          <li><strong>🎧 Sons realistas:</strong> Áudio de alta qualidade para uma experiência mais imersiva.</li>
+          <li><strong>🎨 Interface intuitiva:</strong> Design simples e responsivo para fácil utilização.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/Bateria/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+  </li>
+  <img src="URL_DA_IMAGEM_AQUI" alt="Bateria Virtual" width="600">
+</ul>
+<br>
+
+<ul>
+  <li>
+    <p><strong>💻 Projeto-Awax:</strong> Este projeto é uma landing page desenvolvida para a empresa fictícia Awax. Utiliza HTML e CSS para criar uma interface moderna e responsiva.</p>
+    <ul>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML e CSS</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>📱 Responsividade:</strong> Layout adaptável para diferentes dispositivos.</li>
+          <li><strong>🎨 Design moderno:</strong> Interface estilizada para uma melhor experiência visual.</li>
+          <li><strong>⚡ Desempenho otimizado:</strong> Código leve para carregamento rápido.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/Projeto-Awax/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
     </ul>
   </li>
   <img src="https://github.com/user-attachments/assets/4ffc4bf6-8903-4163-a518-8bdb50abfb20" alt="Projeto Awax" width="600">
 </ul>
-</br>
+<br>
+
+
+
+
+
+
 6-Projeto-Starbucks-com-Flexbox-e-Grid-R
 
 Este projeto é uma página de exemplo da Starbucks, criada para demonstrar o uso de Flexbox e Grid para layout responsivo. O objetivo foi praticar as técnicas de layout modernas do CSS.

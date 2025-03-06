@@ -4,7 +4,6 @@
 <p>Cada projeto tem seu próprio diretório com os arquivos relacionados. Abaixo, você encontrará uma breve descrição de cada projeto e links para acesso.</p>
 
 <h2><strong>Projetos</strong></h2>
-
 <ul>
   <li>
     <p><strong>🎵 Bateria Virtual:</strong> Uma aplicação web que simula uma bateria, permitindo a reprodução de sons por meio de interações com o teclado e o mouse.</p>
@@ -21,8 +20,9 @@
       </li>
       <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/Bateria/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
     </ul>
+    <br>
   </li>
-  <img src="URL_DA_IMAGEM_AQUI" alt="Bateria Virtual" width="600">
+  <img src="https://github.com/user-attachments/assets/6b81a869-c3b7-4d21-9341-f1080eb72c1e" alt="Bateria Virtual" width="600">
 </ul>
 <br>
 
@@ -40,6 +40,7 @@
         </ul>
       </li>
       <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/Projeto-Awax/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+      <br>
     </ul>
   </li>
   <img src="https://github.com/user-attachments/assets/4ffc4bf6-8903-4163-a518-8bdb50abfb20" alt="Projeto Awax" width="600">

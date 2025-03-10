@@ -24,8 +24,30 @@
   </li>
   <img src="https://github.com/user-attachments/assets/6b81a869-c3b7-4d21-9341-f1080eb72c1e" alt="Bateria Virtual" width="600">
 </ul>
-<br>
+<hr>
+<ul>
+  <li>
+    <p><strong>🌦️ Clima:</strong> Um aplicativo web que exibe informações climáticas em tempo real com base na localização do usuário.</p>
+    <ul>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML, CSS e JavaScript (API de clima)</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>📍 Localização automática:</strong> Detecta a cidade do usuário e exibe o clima correspondente.</li>
+          <li><strong>🔎 Pesquisa manual:</strong> Permite buscar o clima de qualquer cidade do mundo.</li>
+          <li><strong>🌡️ Informações detalhadas:</strong> Temperatura, umidade, velocidade do vento e condições climáticas.</li>
+          <li><strong>📱 Design responsivo:</strong> Interface adaptável para dispositivos móveis e desktops.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/Clima/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+    <br>
+  </li>
+  <img src="https://github.com/user-attachments/assets/707c47a5-a563-4534-86c5-85263b4097d1" alt="Projeto Clima" width="600">
+</ul>
+<hr>
 
+<hr>
 <ul>
   <li>
     <p><strong>💻 Projeto-Awax:</strong> Este projeto é uma landing page desenvolvida para a empresa fictícia Awax. Utiliza HTML e CSS para criar uma interface moderna e responsiva.</p>

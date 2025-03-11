@@ -238,32 +238,26 @@
   <img src="https://github.com/user-attachments/assets/8d5cbd2f-3122-4598-ab96-a0b27170d1a8" alt="Menu Vertical" width="300">
 </ul>
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-Como Clonar e Executar o Projeto
-
-Para clonar e executar este repositório localmente, siga as instruções abaixo:
-
-# Clone o repositório
-git clone https://github.com/Levyherc/1-Portfolio.git
-
-# Navegue até o diretório do projeto
-cd 1-Portfolio
-
-# Abra os arquivos index.html dos projetos desejados no navegador
-
-Criando um Site em HTML e CSS
-
-Projeto em andamento para reforçar a base de conhecimento em desenvolvimento web.
-Este site está em construção.
+<ul>
+  <li>
+    <p><strong>🌍 Projeto Lugares Turísticos na Europa:</strong> Página desenvolvida como parte da atividade da Proz Educação - Talento Cloud. O objetivo foi criar um site informativo destacando destinos turísticos na Europa, com um layout organizado e imagens ilustrativas.</p>
+    <ul>
+      <li><strong>🏫 Atividade:</strong> Desenvolvimento 2 - Proz Educação</li>
+      <li><strong>📌 Descrição:</strong> O projeto apresenta alguns dos destinos turísticos mais famosos da Europa, utilizando uma estrutura bem definida com textos explicativos, imagens e cards.</li>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML e CSS</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>🖼️ Cards interativos:</strong> Apresentação visual atrativa de cada destino.</li>
+          <li><strong>🌐 Informações detalhadas:</strong> Breve descrição de cada lugar com imagens representativas.</li>
+          <li><strong>📱 Design responsivo:</strong> Adaptável para diferentes tamanhos de tela.</li>
+          <li><strong>🎨 Layout limpo:</strong> Organização clara para melhor experiência do usuário.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/proz-lugares-turisticos/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+    <br>
+  </li>
+  <img src="https://github.com/user-attachments/assets/c2d97feb-7218-431d-a9f8-9d1111f39bc7" alt="Lugares Turísticos na Europa" width="600">
+</ul>
+<hr>

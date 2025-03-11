@@ -261,3 +261,33 @@
   <img src="https://github.com/user-attachments/assets/c2d97feb-7218-431d-a9f8-9d1111f39bc7" alt="Lugares Turísticos na Europa" width="600">
 </ul>
 <hr>
+<ul>
+  <li>
+    <p><strong>🌆 Projeto Pontos Turísticos de Recife:</strong> Página desenvolvida como parte da atividade da Proz Educação - Talento Cloud. O objetivo foi criar um site informativo sobre os principais pontos turísticos de Recife Antigo, com destaque para o Marco Zero.</p>
+    <ul>
+      <li><strong>🏫 Atividade:</strong> Desenvolvimento 3 e 4 - Proz Educação</li>
+      <li>
+        <strong>📌 Descrição:</strong>
+        <ul>
+          <li><strong>📍 Desenvolvimento 3:</strong> Criar uma página HTML sobre o Marco Zero, contendo cabeçalho, conteúdo, rodapé e imagens, além do uso de tags de semântica textual inline.</li>
+          <li><strong>📍 Desenvolvimento 4:</strong> Criar uma segunda página apresentando dois outros pontos turísticos do Recife Antigo, incluindo um link de navegação entre as páginas.</li>
+        </ul>
+      </li>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML e CSS</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>🔗 Navegação entre páginas:</strong> Link entre as páginas de Marco Zero e outros pontos turísticos.</li>
+          <li><strong>🖼️ Imagens ilustrativas:</strong> Fotos dos locais turísticos para melhor visualização.</li>
+          <li><strong>📱 Design responsivo:</strong> Adaptável para diferentes dispositivos.</li>
+          <li><strong>🎨 Estrutura organizada:</strong> Uso de cabeçalho, conteúdo principal e rodapé.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/proz-pontos-turisticos/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+    <br>
+  </li>
+  <img src="https://github.com/user-attachments/assets/e23b5a8f-b8c1-4c18-9510-23b6ded368ef" alt="Pontos Turísticos de Recife" width="600">
+</ul>
+<hr>
+

@@ -46,6 +46,48 @@
   <img src="https://github.com/user-attachments/assets/707c47a5-a563-4534-86c5-85263b4097d1" alt="Projeto Clima" width="600">
 </ul>
 <hr>
+<ul>
+  <li>
+    <p><strong>📦 FlexBox Layout:</strong> Um projeto desenvolvido para praticar e demonstrar o uso do Flexbox no CSS, criando layouts flexíveis e responsivos.</p>
+    <ul>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML e CSS (Flexbox)</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>📏 Layout responsivo:</strong> Demonstra a adaptação automática dos elementos conforme o tamanho da tela.</li>
+          <li><strong>🔄 Alinhamento flexível:</strong> Exemplos práticos de como alinhar itens na horizontal e vertical.</li>
+          <li><strong>📐 Distribuição dinâmica:</strong> Uso de propriedades como `justify-content`, `align-items` e `flex-wrap`.</li>
+          <li><strong>🎨 Estilização otimizada:</strong> Códigos organizados para fácil compreensão e reutilização.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/FlexBox/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+      <br>
+    </ul>
+  </li>
+  <img src="https://github.com/user-attachments/assets/cf4b80a3-236d-48db-a0e9-76f1e83e0aae" alt="Projeto FlexBox" width="600">
+</ul>
+<hr>
+<ul>
+  <li>
+    <p><strong>⏰ Projeto Relógio:</strong> Um relógio digital interativo desenvolvido com HTML, CSS e JavaScript, exibindo a hora em tempo real.</p>
+    <ul>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML, CSS e JavaScript</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>⌚ Exibição em tempo real:</strong> Atualização automática da hora, minutos e segundos.</li>
+          <li><strong>🎨 Estilização moderna:</strong> Design limpo e responsivo para diferentes dispositivos.</li>
+          <li><strong>🌙 Modo escuro:</strong> Alteração do tema para melhor experiência visual.</li>
+          <li><strong>🕰️ Animação suave:</strong> Transições fluídas para uma experiência agradável.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/Project-Relogio/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+    <br>
+  </li>
+  <img src="https://github.com/user-attachments/assets/91cb8582-ebf3-4566-bad4-ccc4880bd68d" alt="Projeto Relógio" width="600">
+</ul>
+
 
 <hr>
 <ul>
@@ -68,7 +110,146 @@
   <img src="https://github.com/user-attachments/assets/4ffc4bf6-8903-4163-a518-8bdb50abfb20" alt="Projeto Awax" width="600">
 </ul>
 <hr>
-<h2><strong>Projetos</strong></h2>
+<ul>
+  <li>
+    <p><strong>🍔 Projeto B7Burger:</strong> Uma página web desenvolvida para a lanchonete fictícia B7Burger, focada em apresentar seu cardápio e atrair clientes com um design moderno.</p>
+    <ul>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML e CSS</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>📱 Layout responsivo:</strong> Adaptação para diferentes tamanhos de tela.</li>
+          <li><strong>🎨 Design atrativo:</strong> Estilização moderna e convidativa.</li>
+          <li><strong>🍟 Cardápio visual:</strong> Exibição dos principais produtos da lanchonete.</li>
+          <li><strong>💬 Chamada para ação:</strong> Elementos incentivando pedidos e interação com o usuário.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/Projeto-B7Burger/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+    <br>
+  </li>
+  <img src="https://github.com/user-attachments/assets/ec061802-7cf5-4175-b05c-7a3323b93fbf" alt="Projeto B7Burger" width="600">
+</ul>
+<hr>
+<ul>
+  <li>
+    <p><strong>☕ Projeto Starbucks:</strong> Página web inspirada na Starbucks, desenvolvida para praticar o uso de Flexbox e Grid, garantindo um layout moderno e responsivo.</p>
+    <ul>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML e CSS (Flexbox e Grid)</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>📱 Layout responsivo:</strong> Adaptação fluida para diferentes dispositivos.</li>
+          <li><strong>🖼️ Organização com Flexbox e Grid:</strong> Estruturação eficiente dos elementos na página.</li>
+          <li><strong>🎨 Design atrativo:</strong> Interface moderna inspirada na identidade visual da Starbucks.</li>
+          <li><strong>🔍 Seções bem definidas:</strong> Exibição clara do conteúdo, separando produtos, informações e chamadas para ação.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/Projeto-Starbucks-com-Flexbox-e-Grid-R/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+    <br>
+  </li>
+  <img src="https://github.com/user-attachments/assets/94eee044-b022-4e46-a194-b492890371e9" alt="Projeto Starbucks" width="600">
+</ul>
+<hr>
+<ul>
+  <li>
+    <p><strong>🛒 Projeto Site E-commerce:</strong> Um site de e-commerce responsivo, desenvolvido para aprimorar conhecimentos em HTML, CSS e JavaScript. Inclui funcionalidades como pesquisa de produtos e um layout dinâmico.</p>
+    <ul>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML, CSS e JavaScript</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>🔍 Barra de pesquisa:</strong> Permite buscar produtos de forma rápida e eficiente.</li>
+          <li><strong>📱 Layout responsivo:</strong> Adaptável para diferentes tamanhos de tela.</li>
+          <li><strong>🖥️ Interface moderna:</strong> Design limpo e intuitivo para melhor experiência do usuário.</li>
+          <li><strong>🛍️ Estrutura de e-commerce:</strong> Simulação de uma loja online com organização de produtos.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/site-ecommerce/index.html?search=" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+    <br>
+  </li>
+  <img src="https://github.com/user-attachments/assets/951bdfed-6b40-4c5e-bb3b-52cb3521d19d" alt="Site E-commerce" width="600">
+</ul>
+<hr>
+<ul>
+  <li>
+    <p><strong>🎮 Projeto Site Gamer:</strong> Um site temático sobre jogos, desenvolvido para praticar HTML, CSS e JavaScript. Apresenta um layout moderno e responsivo, voltado para a comunidade gamer.</p>
+    <ul>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML, CSS e JavaScript</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>🕹️ Design gamer:</strong> Interface inspirada no universo dos games.</li>
+          <li><strong>📱 Responsividade:</strong> Adaptável para diferentes dispositivos.</li>
+          <li><strong>🎨 Estilização moderna:</strong> Cores vibrantes e elementos gráficos dinâmicos.</li>
+          <li><strong>📰 Seção de notícias:</strong> Possibilidade de exibir novidades do mundo dos games.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/Projetos/sitegamer/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+    <br>
+  </li>
+  <img src="https://github.com/user-attachments/assets/e6a098e7-475f-494e-9a66-698243368776" alt="Site Gamer" width="600">
+</ul>
+<hr>
+<h2><strong>Projeto Menu Horizontal</strong></h2>
+<ul>
+  <li>
+    <p><strong>📂 Projeto Menu Horizontal:</strong> Um menu de navegação horizontal estilizado, desenvolvido para aprimorar habilidades em HTML e CSS. Ideal para sites que necessitam de uma barra de navegação superior fluida e organizada.</p>
+    <ul>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML e CSS</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>📌 Menu fixo:</strong> Mantém-se no topo para facilitar a navegação.</li>
+          <li><strong>🎨 Estilização moderna:</strong> Design responsivo e visual limpo.</li>
+          <li><strong>📱 Responsividade:</strong> Adaptável para diferentes tamanhos de tela.</li>
+          <li><strong>🔗 Links organizados:</strong> Navegação clara e intuitiva para o usuário.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/menu-horizontal/navegacao-menu-horizontal.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+    <br>
+  </li>
+  <img src="https://github.com/user-attachments/assets/b813b236-826c-47aa-a518-25913e37357d" alt="Menu Horizontal" width="600">
+</ul>
+<hr>
+<h2><strong>Projeto Menu Vertical</strong></h2>
+<ul>
+  <li>
+    <p><strong>📂 Projeto Menu Vertical:</strong> Um menu de navegação vertical estilizado, desenvolvido para aprimorar habilidades em HTML e CSS. Ideal para sites que necessitam de uma barra lateral intuitiva e bem organizada.</p>
+    <ul>
+      <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML e CSS</li>
+      <li>
+        <strong>🚀 Funcionalidades</strong>
+        <ul>
+          <li><strong>📌 Menu fixo:</strong> Mantém-se fixo na lateral para facilitar a navegação.</li>
+          <li><strong>🎨 Estilização moderna:</strong> Design responsivo e visual agradável.</li>
+          <li><strong>📱 Responsividade:</strong> Adaptável para diferentes tamanhos de tela.</li>
+          <li><strong>🔗 Links organizados:</strong> Navegação clara e intuitiva para o usuário.</li>
+        </ul>
+      </li>
+      <li><strong>🔗 Acesse o projeto:</strong> <a href="https://levyherc.github.io/Estudos/menu-vertical/navegacao-menu-home.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
+    </ul>
+    <br>
+  </li>
+  <img src="https://github.com/user-attachments/assets/8d5cbd2f-3122-4598-ab96-a0b27170d1a8" alt="Menu Vertical" width="300">
+</ul>
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
 
 Como Clonar e Executar o Projeto
 

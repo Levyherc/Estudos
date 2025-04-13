@@ -19,8 +19,8 @@ Sistema de gerenciamento de pedidos de uma hamburgueria fictícia, com carrinho 
 
 ### 3. Projeto Starbucks
 Landing page interativa da Starbucks com troca de cores e animações suaves.
-- 🔗 [Visualizar Projeto](https://levyherc.github.io/starbucks/)
-- 📁 [Repositório](https://github.com/levyherc/starbucks)
+- 🔗 [Visualizar Projeto](https://levyherc.github.io/Estudos/Projetos/Projeto-Starbucks-com-Flexbox-e-Grid-R/index.html)
+- 📁 [Repositório](https://github.com/Levyherc/Estudos/tree/main/Projetos/Projeto-Starbucks-com-Flexbox-e-Grid-R)
 
 ### 4. Gerador de Senha
 Ferramenta para gerar senhas seguras com diferentes critérios de complexidade.

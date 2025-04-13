@@ -83,7 +83,7 @@ Um gerador de senhas aleatórias, desenvolvido para praticar o uso de JavaScript
 Um site temático sobre jogos, desenvolvido para praticar HTML, CSS e JavaScript. Apresenta um layout moderno e responsivo, voltado para a comunidade gamer.
 
 🔗 [Acesse o Projeto Online](https://levyherc.github.io/Estudos/Projetos/sitegamer/index.html)  
-📁 [Repositório GitHub](https://github.com/Levyherc/Projeto-Site-Gamer)
+📁 [Repositório GitHub](https://github.com/Levyherc/Estudos/tree/main/Projetos/sitegamer)
 
 #### 🚀 Funcionalidades
 - Design inspirado no universo dos games.
@@ -100,7 +100,7 @@ Um site temático sobre jogos, desenvolvido para praticar HTML, CSS e JavaScript
 ### 🛒 Projeto Site E-commerce
 Um site de e-commerce responsivo, desenvolvido para aprimorar conhecimentos em HTML, CSS e JavaScript.
 
-🔗 [Acesse o Projeto Online](https://levyherc.github.io/Estudos/Projetos/site-ecommerce/index.html)  
+🔗 [Acesse o Projeto Online]https://levyherc.github.io/Estudos/Projetos/sitegamer/index.html)  
 📁 [Repositório GitHub](https://github.com/Levyherc/Estudos/tree/main/Projetos/site-ecommerce)
 
 #### 🚀 Funcionalidades

@@ -66,9 +66,3 @@ Estudos/
 - Criação de uma interface moderna e agradável
 - Aplicação de boas práticas de organização de CSS
 
----
-
-## 📇 Autor
-
-Desenvolvido por **Levy Herculano**  
-🔗 [Portfólio](https://levyherc.github.io/) | 💼 [LinkedIn](https://www.linkedin.com/in/levyherculano/)

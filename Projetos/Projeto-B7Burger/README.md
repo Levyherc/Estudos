@@ -33,7 +33,8 @@ O layout se adapta a diferentes tamanhos de tela, oferecendo uma boa experiênci
 
 ## 📸 Preview
 
-![B7Burger](https://github.com/user-attachments/assets/preview-b7burger.jpg) <!-- substitua por uma imagem se quiser -->
+![image](https://github.com/user-attachments/assets/77c1c859-e8cb-4a2e-bd21-aab0903de534)
+
 
 ---
 

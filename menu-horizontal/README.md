@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto Menu Horizontal 📋
 
 Uma página web demonstrativa com um menu de navegação horizontal, desenvolvida para praticar e consolidar conhecimentos em **HTML** e **CSS**, com foco em design responsivo e organização de layout.
@@ -26,7 +25,10 @@ Este projeto foi criado com o intuito de:
 
 Você pode visualizar o projeto diretamente no GitHub Pages pelo link:
 
-👉 [https://levyherc.github.io/Estudos/menu-horizontal/navegacao-menu-horizontal.html](https://levyherc.github.io/Estudos/menu-horizontal/navegacao-menu-horizontal.html)
+👉 [Menu Horizontal](https://levyherc.github.io/Estudos/menu-horizontal/navegacao-menu-horizontal.html)
+
+![image](https://github.com/user-attachments/assets/5f5d4ccc-488a-48f1-9a40-458ef15e597e)
+
 
 Ou, se preferir, siga estas etapas:
 

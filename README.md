@@ -189,7 +189,7 @@ Relógio digital interativo desenvolvido com HTML, CSS e JavaScript.
 Menu de navegação horizontal estilizado, ideal para sites com barra de navegação superior.
 
 🔗 [Acesse o Projeto Online - Menu Horizontal](https://levyherc.github.io/Estudos/menu-horizontal/navegacao-menu-horizontal.html)  
-📁 [Repositório GitHub](https://github.com/Levyherc/Projeto-Menu-Horizontal)
+📁 [Repositório GitHub](https://github.com/Levyherc/Estudos/tree/main/menu-horizontal)
 
 🔗 [Acesse o Projeto Online - Menu Vertical](https://levyherc.github.io/Estudos/menu-vertical/navegacao-menu-home.html) <br>
 📁 [Repositório GitHub](https://github.com/Levyherc/Estudos/tree/main/menu-vertical)

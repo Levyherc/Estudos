@@ -100,7 +100,7 @@ Um site temático sobre jogos, desenvolvido para praticar HTML, CSS e JavaScript
 ### 🛒 Projeto Site E-commerce
 Um site de e-commerce responsivo, desenvolvido para aprimorar conhecimentos em HTML, CSS e JavaScript.
 
-🔗 [Acesse o Projeto Online]https://levyherc.github.io/Estudos/Projetos/sitegamer/index.html)  
+🔗 [Acesse o Projeto Online](https://levyherc.github.io/Estudos/Projetos/sitegamer/index.html)  
 📁 [Repositório GitHub](https://github.com/Levyherc/Estudos/tree/main/Projetos/site-ecommerce)
 
 #### 🚀 Funcionalidades

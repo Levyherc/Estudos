@@ -26,7 +26,9 @@ Este projeto foi criado com o intuito de:
 
 Você pode visualizar o projeto diretamente no GitHub Pages pelo link:
 
-👉 [https://levyherc.github.io/Estudos/Projetos/Clima/index.html](https://levyherc.github.io/Estudos/Projetos/Clima/index.html)
+👉 [Projeto Clima](https://levyherc.github.io/Estudos/Projetos/Clima/index.html)
+
+![image](https://github.com/user-attachments/assets/246810e5-75fd-4236-ae7e-f8e7ebab7275)
 
 Ou, se preferir, siga estas etapas:
 

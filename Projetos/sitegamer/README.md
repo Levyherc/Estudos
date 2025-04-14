@@ -1,29 +1,24 @@
+# Projeto Site Gamer 🎮
 
-# Projeto Starbucks ☕️
-
-Uma landing page inspirada no site da Starbucks, desenvolvida como exercício de prática de **HTML**, **CSS**, **Flexbox** e **Grid Layout**.
-
-🔗 [Acesse o projeto online](https://levyherc.github.io/Estudos/Projetos/Projeto-Starbucks-com-Flexbox-e-Grid-R/index.html)
+Uma página web demonstrativa inspirada no universo gamer, desenvolvida para praticar e consolidar conhecimentos em **HTML**, **CSS** e **JavaScript**.
 
 ---
 
 ## ✨ Objetivo
 
-Este projeto foi criado com o intuito de praticar e reforçar os conhecimentos em:
+Este projeto foi criado com o intuito de:
 
-- Estruturação semântica com **HTML5**
-- Estilização com **CSS3**
-- Layout responsivo com **Flexbox**
-- Distribuição de elementos usando **CSS Grid**
+- Reforçar habilidades em **HTML5**, **CSS3** e **JavaScript**.
+- Praticar design responsivo e acessível.
+- Criar uma interface visualmente atraente para fãs de jogos.
 
 ---
 
 ## 🧰 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- Flexbox
-- CSS Grid
+- **HTML5**: Estruturação semântica do documento.
+- **CSS3**: Estilização e layout responsivo.
+- **JavaScript**: Interatividade e manipulação de eventos.
 
 ---
 
@@ -31,44 +26,18 @@ Este projeto foi criado com o intuito de praticar e reforçar os conhecimentos e
 
 Você pode visualizar o projeto diretamente no GitHub Pages pelo link:
 
-👉 [https://levyherc.github.io/Estudos/Projetos/Projeto-Starbucks-com-Flexbox-e-Grid-R/index.html](https://levyherc.github.io/Estudos/Projetos/Projeto-Starbucks-com-Flexbox-e-Grid-R/index.html)
+👉 [Projeto Site Gamer ](https://levyherc.github.io/Estudos/Projetos/sitegamer/index.html) 
 
-Ou, se preferir, clone o repositório e abra o arquivo `index.html` no navegador:
+![image](https://github.com/user-attachments/assets/12ee51e6-5a55-4a2d-acb5-253f8da70335)
+
+
+Ou, se preferir, siga estas etapas:
 
 ```bash
+# Clone este repositório
 git clone https://github.com/Levyherc/Estudos.git
-```
 
----
+# Navegue até o diretório do projeto
+cd Estudos/Projetos/sitegamer
 
-## 📂 Estrutura de Pastas
-
-```
-Estudos/
-├── Projetos/
-│   └── Projeto-Starbucks-com-Flexbox-e-Grid-R/
-│       ├── index.html
-│       └── style.css
-```
-
----
-
-## 📌 Status do Projeto
-
-✅ Finalizado para fins educacionais  
-📱 Responsivo em diferentes tamanhos de tela
-
----
-
-## 🧠 Aprendizados
-
-- Posicionamento com `display: flex` e `grid-template-areas`
-- Criação de uma interface moderna e agradável
-- Aplicação de boas práticas de organização de CSS
-
----
-
-## 📇 Autor
-
-Desenvolvido por **Levy Herculano**  
-🔗 [Portfólio](https://levyherc.github.io/) | 💼 [LinkedIn](https://www.linkedin.com/in/levyherculano/)
+# Abra o arquivo index.html no navegador

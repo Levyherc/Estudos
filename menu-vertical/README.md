@@ -1,6 +1,6 @@
-# Projeto Menu Horizontal 📋
+# Projeto Menu Vertical 📋
 
-Uma página web demonstrativa com um menu de navegação horizontal, desenvolvida para praticar e consolidar conhecimentos em **HTML** e **CSS**, com foco em design responsivo e organização de layout.
+Uma página web demonstrativa com um menu de navegação vertical, desenvolvida para praticar e consolidar conhecimentos em **HTML** e **CSS**, com foco em design responsivo e organização de layout.
 
 ---
 
@@ -9,7 +9,7 @@ Uma página web demonstrativa com um menu de navegação horizontal, desenvolvid
 Este projeto foi criado com o intuito de:
 
 - Reforçar habilidades em **HTML5** e **CSS3**.
-- Explorar técnicas de criação de menus de navegação horizontais.
+- Explorar técnicas de criação de menus de navegação verticais.
 - Praticar design acessível e responsivo.
 
 ---

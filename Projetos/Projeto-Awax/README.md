@@ -26,7 +26,10 @@ Este projeto foi criado com o intuito de:
 
 Você pode visualizar o projeto diretamente no GitHub Pages pelo link:
 
-👉 [https://levyherc.github.io/Estudos/Projetos/Projeto-Awax/index.html](https://levyherc.github.io/Estudos/Projetos/Projeto-Awax/index.html)
+👉 [Projeto Awax](https://levyherc.github.io/Estudos/Projetos/Projeto-Awax/index.html)
+
+![image](https://github.com/user-attachments/assets/9d98d88a-6bb9-4524-a099-e297810b00eb)
+
 
 Ou, se preferir, siga estas etapas:
 

@@ -26,7 +26,14 @@ Este projeto foi criado com o intuito de:
 
 Você pode visualizar o projeto diretamente no GitHub Pages pelo link:
 
+<<<<<<< HEAD
 👉 [https://levyherc.github.io/Estudos/Projetos/site-ecommerce/index.html](https://levyherc.github.io/Estudos/Projetos/site-ecommerce/index.html)
+=======
+👉 [Projeto Site E-commerce](https://levyherc.github.io/Estudos/Projetos/site-ecommerce/index.html)
+
+![image](https://github.com/user-attachments/assets/6cd403bc-2a96-4cd6-ba69-58fa2f395de7)
+
+>>>>>>> 8b5795705b3b497814245335e61415a3cdb0c3d1
 
 Ou, se preferir, siga estas etapas:
 

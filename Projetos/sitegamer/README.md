@@ -26,7 +26,14 @@ Este projeto foi criado com o intuito de:
 
 Você pode visualizar o projeto diretamente no GitHub Pages pelo link:
 
+<<<<<<< HEAD
 👉 [https://levyherc.github.io/Estudos/Projetos/sitegamer/index.html](https://levyherc.github.io/Estudos/Projetos/sitegamer/index.html)
+=======
+👉 [Projeto Site Gamer ](https://levyherc.github.io/Estudos/Projetos/sitegamer/index.html) 
+
+![image](https://github.com/user-attachments/assets/12ee51e6-5a55-4a2d-acb5-253f8da70335)
+
+>>>>>>> 8b5795705b3b497814245335e61415a3cdb0c3d1
 
 Ou, se preferir, siga estas etapas:
 

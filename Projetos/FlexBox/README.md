@@ -26,7 +26,14 @@ Este projeto foi criado com o intuito de:
 
 Você pode visualizar o projeto diretamente no GitHub Pages pelo link:
 
+<<<<<<< HEAD
 👉 [https://levyherc.github.io/Estudos/Projetos/FlexBox/index.html](https://levyherc.github.io/Estudos/Projetos/FlexBox/index.html)
+=======
+👉 [Projeto FlexBox](https://levyherc.github.io/Estudos/Projetos/FlexBox/index.html)
+
+![image](https://github.com/user-attachments/assets/859be8c3-4800-49e7-86a8-aa80ed856c00)
+
+>>>>>>> 8b5795705b3b497814245335e61415a3cdb0c3d1
 
 Ou, se preferir, siga estas etapas:
 

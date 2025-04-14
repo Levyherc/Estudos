@@ -1,6 +1,6 @@
 # Projeto Awax 🌟
 
-Uma página web demonstrativa, desenvolvida para praticar e consolidar conhecimentos em **HTML**, **CSS** e **JavaScript**, com foco em design moderno e responsivo.
+Uma página web demonstrativa, desenvolvida para praticar e consolidar conhecimentos em **HTML**, **CSS**, com foco em design moderno e responsivo.
 
 ---
 
@@ -18,7 +18,6 @@ Este projeto foi criado com o intuito de:
 
 - **HTML5**: Estruturação semântica do documento.
 - **CSS3**: Estilização e layout responsivo.
-- **JavaScript**: Interatividade e manipulação de eventos.
 
 ---
 

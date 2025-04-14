@@ -26,7 +26,10 @@ Este projeto foi criado com o intuito de:
 
 Você pode visualizar o projeto diretamente no GitHub Pages pelo link:
 
-👉 [https://levyherc.github.io/Estudos/Projetos/Project-Relogio/index.html](https://levyherc.github.io/Estudos/Projetos/Project-Relogio/index.html)
+👉 [Projeto Relógio Analógico](https://levyherc.github.io/Estudos/Projetos/Project-Relogio/index.html)
+
+![image](https://github.com/user-attachments/assets/ddefd336-3fc2-4108-ad9f-7c8d18ab4501)
+
 
 Ou, se preferir, siga estas etapas:
 

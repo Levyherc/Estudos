@@ -1,0 +1,263 @@
+:root {
+    --azul-turquesa: #026E81;
+    --azul-turquesa-claro: #00ABBD;
+    --azul: #0099DD;
+    --laranja: #FF9933;
+    --azul-claro: #A1C7E0;
+    --preto-titulo: #242424;
+    --fundo-da-aplicação: #f0f0f0;
+    --fonte-principal: 'Poppins', sans-serif;
+    --fonte-secundaria: 'Roboto', sans-serif;
+}
+
+body {
+    font-family: var(--fonte-secundaria);
+    font-size: 20px;
+
+    color: var(--preto-titulo);
+    background-color: var(--fundo-da-aplicação)
+}
+
+section {
+    padding: 1em 10%;
+}
+
+header {
+    padding: 1em 10%;
+    background-color: var(--preto-titulo);
+    color: var(--fundo-da-aplicação);
+}
+
+a {
+    color: var(--fundo-da-aplicação)
+}
+
+a:hover {
+    color: var(--azul)
+}
+
+a:active {
+    color: var(--laranja)
+}
+
+h3 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 32px;
+    padding-bottom: 1em;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+* {
+    box-sizing: border-box;
+
+    margin: 0;
+    padding: 0;
+}
+
+.conteudo-formulario {
+    background-color: var(--azul-claro);
+
+}
+
+.conteudo-formulario h2 {
+    text-align: center;
+}
+
+.formulario-container {
+    display: flex;
+    justify-content: center;
+    gap: 5em;
+}
+
+.lista-formulario {
+    list-style-type: none;
+}
+
+.lista-formulario li {
+    padding-top: 1em;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+    font-weight: 500;
+    padding-top: 1em;
+}
+
+
+.info-titulo {
+    font-weight: 500;
+}
+
+button {
+    display: block;
+    background-color: var(--azul-turquesa);
+    color: var(--fundo-da-aplicação);
+    font-weight: 500;
+    border: none;
+    padding: 1em 2em;
+    font-family: var(--fonte-principal);
+    border-radius: 14px;
+    margin-top: 2em;
+    width: 50%;
+}
+
+.conteudo-home img {
+    width: 100%;
+}
+
+input,
+textarea {
+    padding: 1em 1em;
+    border: none;
+    border-radius: 14px;
+}
+
+textarea {
+    height: 200px;
+}
+
+form {
+    width: 30%;
+}
+
+button {
+    display: block;
+}
+
+.conteudo-projetos p {
+    padding-bottom: 1em;
+}
+
+.projetos-lista {
+    width: 100%;
+}
+
+.projetos-lista li img {
+    width: 100%
+}
+
+.cabecalho-lista {
+    display: none;
+}
+
+.projetos-lista {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    list-style-type: none;
+    gap: 1em;
+}
+
+.conteudo-projetos {
+    text-align: center;
+    background-color: var(--azul-claro);
+    height: 50vh;
+    padding-top: 2em
+}
+
+.projetos-lista li {
+    grid-column: span 12;
+}
+
+.lista-habilidades {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1em
+}
+
+.lista-habilidades li {
+    background-color: var(--azul-claro);
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.lista-habilidades li h3 {
+    padding-top: 1em;
+    padding-bottom: .5em;
+}
+
+.conteudo-habilidades h2 {
+    text-align: center;
+}
+
+.conteudo-habilidades {
+    height: 50vh;
+    padding-top: 2em
+}
+
+@media screen and (min-width: 720px) {
+    .home-titulo {
+        font-size: 46px;
+    }
+
+    .cabecalho-lista {
+        display: flex;
+        gap: 3em;
+        list-style-type: none;
+
+    }
+
+    .cabecalho-lista li a {
+        text-decoration: none;
+    }
+
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .conteudo-home {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        gap: 3em;
+        height: 80vh;
+    }
+
+
+    .conteudo-home img {
+        width: 700px;
+        height: 500px;
+        object-fit: cover;
+        border-radius: 16px;
+        -webkit-box-shadow: 10px 10px 15px 0px rgba(2, 110, 129, 0.6);
+        -moz-box-shadow: 10px 10px 15px 0px rgba(2, 110, 129, 0.6);
+        box-shadow: 10px 10px 15px 0px rgba(2, 110, 129, 0.6);
+    }
+
+    .projetos-lista li:nth-child(1) {
+        grid-column: 2 / span 3;
+    }
+
+    .projetos-lista li:nth-child(2) {
+        grid-column: 5 / span 4;
+    }
+
+    .projetos-lista li:nth-child(3) {
+        grid-column: 9 / span 3;
+    }
+
+    .projetos-lista li img {
+        height: 300px;
+        border-radius: 16px;
+        object-fit: cover;
+    }
+
+    .lista-habilidades {
+        flex-direction: row;
+    }
+
+    .lista-habilidades li {
+        height: 300px;
+        flex: 1
+    }
+}

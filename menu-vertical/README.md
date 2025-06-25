@@ -27,6 +27,9 @@ Você pode visualizar o projeto diretamente no GitHub Pages pelo link:
 
 👉 [https://levyherc.github.io/Estudos/menu-horizontal/navegacao-menu-horizontal.html](https://levyherc.github.io/Estudos/menu-horizontal/navegacao-menu-horizontal.html)
 
+![image](https://github.com/user-attachments/assets/45a75884-61d6-4910-89a6-8ee2b8f2714c)
+
+
 Ou, se preferir, siga estas etapas:
 
 ```bash

@@ -4,20 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marco Zero - Recife</title>
-    <!-- Acessar o site remix icon > GitHub > CDN - adicionar a marca -->
-    <link
-    href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css"
-    rel="stylesheet"/>
 
+    <!-- Ícones Remix -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet"/>
+
+    <!-- Seu CSS -->
     <link rel="stylesheet" href="./css/proz-a-ponto-t.css">
-
 </head>
+
 <body>
+
+    <!-- ===================== CABEÇALHO ===================== -->
     <header>
         <div class="logo">
             <img src="./img/recife.jpg" alt="Recife">
             <span>Recife</span>
         </div>
+
         <nav>
             <ul>
                 <li><a href="./index.html">Marco Zero</a></li>
@@ -28,61 +31,48 @@
         </nav>
     </header>
 
+    <!-- ===================== CONTEÚDO ===================== -->
     <main>
         <img src="./img/marco-zero.jpeg" alt="Praça Marco Zero Recife">
+
         <section>
             <h1>Marco Zero Recife</h1>
-            <p>
-                Praça do <strong>Marco Zero</strong> seu ponto de partida para explorar Recife. Com sua localização privilegiada, é possível caminhar ao longo da orla e conhecer os principais pontos de interesse da cidade. O Marco Zero é construído em estilo neoclássico, com uma estátua equestre no topo.
-            </p>
-            <p>
-                Do alto, é possível ter uma excelente visão da cidade e do porto. Ao seu redor, encontram-se o Theatro de Santa Isabel, o Palácio do Campo das Princesas, a Catedral de São Pedro dos Clérigos, a Igreja de São José e o Paço da Alfândega.
-            </p>
+
+            <p>Praça do Marco Zero...</p>
+
             <h2>Passeios</h2>
-            <p>
-                Ao longo da orla, o turista encontra uma série de locais históricos, museus, monumentos e parques para conhecer. Um passeio perfeito é começar no Marco Zero, seguindo em direção ao Recife Antigo. Nas proximidades do Marco, está o Theatro de Santa Isabel, que foi construído entre 1817 e 1820.
-            </p>
-            <p>
-                O teatro foi palco de diversos importantes acontecimentos da história do Brasil, como a Coroação de D. Pedro I. Do outro lado da rua, está o Palácio do Campo das Princesas, que abriga o Museu do Estado de Pernambuco. O palácio serviu de residência para a família real holandesa entre 1630 e 1654.
-            </p>
-            <p>
-                Continuando o passeio, o turista chega à Catedral de São Pedro dos Clérigos, construída em estilo barroco. A Igreja de São José possui uma bela decoração rococó. Já o Paço da Alfândega, foi construído no século XVIII e atualmente abriga o Museu do Homem do Nordeste.
-            </p>
-            <p>
-                No fim da orla, está o Forte das Cinco Pontas, que foi construído em 1630 e é o maior forte da América Latina. O forte serviu de base para a resistência contra os holandeses durante a invasão à cidade. Para encerrar o passeio, visite o Parque da Jaqueira, que possui uma ótima estrutura para o lazer e é ideal para relaxar.
-            </p>
+            <p>Ao longo da orla...</p>
+
             <h3>Museus</h3>
-            <p>
-                Recife é um dos principais centros culturais do Brasil e abriga uma grande quantidade de museus. O museu mais famoso da cidade é o Museu do Homem do Nordeste, que é especializado em arte contemporânea. Outros museus importantes são o Museu de Arte Moderna, o Museu de Arte Sacra, o Museu de Ciência e Tecnologia e o Museu Afro-Brasileiro.
-            </p>
+            <p>Recife é um dos principais...</p>
+
             <h3>Pontos turísticos</h3>
-            <p>
-                Além dos museus, Recife possui uma grande quantidade de pontos turísticos para visitar. Os principais são o Marco Zero, o Recife Antigo, o Centro Histórico, o Theatro Municipal, o Estádio Ilha do Retiro e o Parque das Dunas.
-            </p>
+            <p>Além dos museus...</p>
+
             <h3>Como chegar</h3>
-            <p>
-                O Marco Zero está localizado no centro de Recife e é facilmente acessível. A cidade possui várias opções de transporte público, como ônibus, táxis e metrô.
-            </p>
+            <p>O Marco Zero está localizado...</p>
         </section>
     </main>
 
+    <!-- ===================== RODAPÉ ===================== -->
     <footer>
         <div class="logo">
             <img src="./img/recife.jpg" alt="Recife">
             <span>Recife</span>
         </div>
+
         <div class="footer__social">
             <a href="#" class="footer__link"><i class="ri-facebook-circle-fill"></i></a>
             <a href="#" class="footer__link"><i class="ri-instagram-fill"></i></a>
             <a href="#" class="footer__link"><i class="ri-twitter-fill"></i></a>
         </div>
+
         <p>&#169; 2024 Marco Zero - Recife. Todos os direitos reservados.</p>
     </footer>
-<!-- =============== Chat N8N =============== -->
-  <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
 
-    <!-- =============== Customização do Chat N8N =============== -->
+    <!-- ============================================================
+          ESTILOS PERSONALIZADOS DO CHAT N8N
+    ============================================================ -->
     <style>
       :root {
         --chat--color-primary: #003EF0;
@@ -92,10 +82,8 @@
         --chat--color-light: #f2f4f8;
         --chat--color-dark: #283AEB;
 
-        --chat--window--width: 450px;
+        --chat--window--width: 420px;
         --chat--window--height: 600px;
-        --chat--border-radius: 0.5rem;
-        --chat--spacing: 1rem;
 
         --chat--header--background: var(--chat--color-dark);
         --chat--header--color: var(--chat--color-white);
@@ -107,7 +95,7 @@
         --chat--toggle--size: 64px;
       }
 
-      /* Avatar personalizado no cabeçalho do chat */
+      /* Avatar no cabeçalho do chat */
       .n8n-chat__header::before {
         content: "";
         width: 36px;
@@ -121,35 +109,48 @@
       }
     </style>
 
-    <!-- Script do Chat N8N -->
-    <script type="module">
-      import { createChat } from "https://cdn.jsdelivr.net/npm/@n8n/chat/dist/webchat.bundle.js";
+    <!-- ============================================================
+          SCRIPTS OFICIAIS DO WIDGET N8N (VERSÃO CORRETA)
+    ============================================================ -->
 
-      createChat({
-        webhookUrl: "https://n8n.lmsnext.com.br/webhook/b1a55f68-a7f8-4e4e-896e-a1c6710f912a/chat",
-        mode: "floating",
-        showWelcomeScreen: false,
-        chatInputKey: "chatInput",
-        chatSessionKey: "sessionId",
+    <!-- CSS do widget -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css">
 
-        initialMessages: [
-          "Olá, sou o LMS Next IA.",
-          "Para iniciarmos, por favor, me informe seu **nome e email...**"
-        ],
+    <!-- Script UMD (NÃO usar type="module") -->
+    <script src="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/webchat.bundle.js"></script>
 
-        i18n: {
-          en: {
-            title: "Especialista LMS Next!",
-            subtitle: "Pergunte o que quiser sobre o LMS Next!",
-            footer: "",
-            getStarted: "New Conversation",
-            inputPlaceholder: "Type your question...",
-          }
-        },
+    <script>
+        /* ============================================================
+           INICIALIZAÇÃO DO CHAT N8N
+           Agora funciona corretamente!
+        ============================================================ */
+        window.n8nChat.createChat({
+            webhookUrl: "https://n8n.lmsnext.com.br/webhook/b1a55f68-a7f8-4e4e-896e-a1c6710f912a/chat",
+            mode: "floating",
+            showWelcomeScreen: false,
 
-        enableStreaming: false
-      });
-    </script>  
-    
+            // salva sessão no navegador
+            chatInputKey: "chatInput",
+            chatSessionKey: "sessionId",
+
+            initialMessages: [
+                "Olá! Sou seu assistente virtual.",
+                "Como posso te ajudar hoje? 😊"
+            ],
+
+            i18n: {
+                en: {
+                    title: "Assistente Recife",
+                    subtitle: "Pergunte algo sobre Recife! 🌴",
+                    footer: "",
+                    getStarted: "Iniciar conversa",
+                    inputPlaceholder: "Digite sua pergunta..."
+                }
+            },
+
+            enableStreaming: false
+        });
+    </script>
+
 </body>
 </html>

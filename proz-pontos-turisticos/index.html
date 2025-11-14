@@ -95,35 +95,38 @@
     </style>
 
     <!-- Script do Chat N8N -->
-    <script type="module">
-        import { createChat } from "https://cdn.jsdelivr.net/npm/@n8n/chat@latest/dist/webchat.bundle.js";
+<!-- Script do Chat N8N -->
+<script src="https://cdn.jsdelivr.net/npm/@n8n/chat@latest/dist/webchat.bundle.js"></script>
 
-        createChat({
-            webhookUrl: "https://n8n.lmsnext.com.br/webhook/b1a55f68-a7f8-4e4e-896e-a1c6710f912a/chat",
-            mode: "floating",
+<script>
+    createChat({
+        webhookUrl: "https://n8n.lmsnext.com.br/webhook/b1a55f68-a7f8-4e4e-896e-a1c6710f912a/chat",
+        mode: "floating",
 
-            showWelcomeScreen: false,
-            chatInputKey: "chatInput",
-            chatSessionKey: "sessionId",
+        showWelcomeScreen: false,
 
-            initialMessages: [
-                "Olá, sou o LMS Next IA.",
-                "Para iniciarmos, por favor me informe seu **nome e email**."
-            ],
+        chatInputKey: "chatInput",
+        chatSessionKey: "sessionId",
 
-            i18n: {
-                en: {
-                    title: "Especialista LMS Next!",
-                    subtitle: "Pergunte o que quiser sobre o LMS Next!",
-                    footer: "",
-                    getStarted: "Nova conversa",
-                    inputPlaceholder: "Digite sua pergunta...",
-                }
-            },
+        initialMessages: [
+            "Olá, sou o LMS Next IA.",
+            "Para iniciarmos, por favor me informe seu **nome e email**."
+        ],
 
-            enableStreaming: false
-        });
-    </script>
+        i18n: {
+            en: {
+                title: "Especialista LMS Next!",
+                subtitle: "Pergunte o que quiser sobre o LMS Next!",
+                footer: "",
+                getStarted: "Nova conversa",
+                inputPlaceholder: "Digite sua pergunta...",
+            }
+        },
+
+        enableStreaming: false
+    });
+</script>
+
 
 </body>
 </html>
